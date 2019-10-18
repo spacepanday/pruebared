@@ -1,3 +1,3 @@
 FROM ubuntu:16.04
 RUN apt-get update
-CMD ["echo","hola inge desde github"]
+CMD ["echo","hola inge desde github 2"]
